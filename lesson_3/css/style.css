@@ -1,0 +1,29 @@
+@import url("reset.css");
+.introduction{
+    color:rgb(49, 140, 214);
+}
+h2,
+.link{
+    color: mediumseagreen;
+}
+h3{
+    color:rgb(224, 102, 224);
+}
+p.text{
+    color:brown;
+}
+a{
+    color: blue;
+}
+.list > li{
+    color:#D132F1;
+}
+[class*="clarification"]{
+    color: deeppink;
+}
+[class*="_name"]{
+    color:mediumpurple;
+}
+.color{
+    color:goldenrod;
+}
